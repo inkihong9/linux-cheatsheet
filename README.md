@@ -2,9 +2,11 @@
 
 `cat` - displays file content
 
-`cd` - navigates between directorries
+`cd` - navigates between directories
 
 `clear`
+
+`cp` - copies a file or directory into a new location
 
 `echo`
 
@@ -20,9 +22,19 @@
 
 `ls` - displays the names of files and directories in the current working directory
 
+`mkdir` - creates (makes) a new directory
+
+`mv` - moves a file or directory to a new location
+
 `pwd` - prints the working directory onto the screen
 
+`rm` - removes, or deletes a file
+
+`rmdir` - removes, or deletes a directory
+
 `tail` - displays the last *n* lines of the file (default - 10)
+
+`touch` - creates a new file
 
 `whoami` - returns the username of current user
 
