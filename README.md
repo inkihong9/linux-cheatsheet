@@ -6,6 +6,8 @@
 
 `cd` - navigates between directories
 
+`chmod` - changes permissions on files and directories
+
 `clear`
 
 `cp` - copies a file or directory into a new location
