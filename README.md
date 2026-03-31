@@ -8,6 +8,8 @@
 
 `chmod` - changes permissions on files and directories
 
+`chown` - changes the ownership of a file or directory by user or group
+
 `clear`
 
 `cp` - copies a file or directory into a new location
@@ -36,9 +38,17 @@
 
 `rmdir` - removes, or deletes a directory
 
+`sudo` - temporarily grants elevated permissions to specific users
+
 `tail` - displays the last *n* lines of the file (default - 10)
 
 `touch` - creates a new file
+
+`useradd` - adds a user to the system
+
+`userdel` - deletes a user from the system
+
+`usermod` - modifies existing user accounts
 
 `whoami` - returns the username of current user
 
