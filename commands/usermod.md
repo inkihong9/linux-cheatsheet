@@ -11,7 +11,7 @@ modifies existing user accounts
 ### example 1: changing the user `ihong`'s primary group to `managers`
 `$ sudo usermod -g managers ihong`
 ### example 2: adding user `ihong` to groups `engineering_team`, `admin`, and `security_team`
-`$ sudo useradd ihong -G engineering_team,admin,security_team`
+`$ sudo usermod ihong -G engineering_team,admin,security_team`
 ## notes
 * can only be used by root user or sudoers
 * when running this command, no standard output means operation was successful
