@@ -11,3 +11,4 @@ adds a user to the system
 ## notes
 * can only be used by root user or sudoers
 * when running this command, no standard output means operation was successful
+* when creating a new user in Linux, a group with the same name as the user is automatically created and the user is the only member of that group

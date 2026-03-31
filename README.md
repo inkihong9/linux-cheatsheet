@@ -22,6 +22,8 @@
 
 `grep` - searches a specified file and returns all lines in the file containing a specified string
 
+`groupdel` - deletes a group from the system
+
 `head` - displays the first *n* lines of the file (default - 10)
 
 `less` - returns the file content 1 page at a time
