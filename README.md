@@ -34,6 +34,8 @@
 
 `mv` - moves a file or directory to a new location
 
+`openssl` - 
+
 `pwd` - prints the working directory onto the screen
 
 `rm` - removes, or deletes a file
@@ -45,6 +47,8 @@
 `tail` - displays the last *n* lines of the file (default - 10)
 
 `touch` - creates a new file
+
+`tr` - translates text from one set of characters to another, using a mapping
 
 `useradd` - adds a user to the system
 
