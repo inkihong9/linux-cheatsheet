@@ -1,5 +1,7 @@
 # Documenting is Important!!
 
+`apropos` - searches the manual page descriptions for a specified string
+
 `apt`
 
 `cat` - displays file content
@@ -30,6 +32,8 @@
 
 `ls` - displays the names of files and directories in the current working directory
 
+`man` - displays information on other commands and how they work
+
 `mkdir` - creates (makes) a new directory
 
 `mv` - moves a file or directory to a new location
@@ -55,6 +59,8 @@
 `userdel` - deletes a user from the system
 
 `usermod` - modifies existing user accounts
+
+`whatis` - displays a description of a command on a single line
 
 `whoami` - returns the username of current user
 
